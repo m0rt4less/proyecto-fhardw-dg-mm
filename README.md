@@ -19,7 +19,7 @@ Este repositorio contiene dos investigaciones independientes trabajadas de forma
 * 👉 **[Ir al proyecto de Seguridad](./proyecto-seguridad/README.md)**
 
 ### 🌍 [Proyecto 2: Informática Ambiental](./proyecto-ambiental/README.md)
-**Autor:** Manuel Morales (@ManuMorales-16)
+**Autor:** Manuel Morales (@m0rt4less)
 * Estudio sobre el impacto de la tecnología en el medio ambiente: e-waste, obsolescencia programada y los principios de la informática ecológica (Green Computing).
 * 👉 **[Ir al proyecto Ambiental](./proyecto-ambiental/README.md)**
 
