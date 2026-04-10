@@ -16,12 +16,12 @@ Este repositorio contiene dos investigaciones independientes trabajadas de forma
 ### 🛡️ [Proyecto 1: Seguridad y Salud en el Trabajo Informático](./proyecto-seguridad/README.md)
 **Autor:** Daniel González (@danielgonhid)
 * Análisis de los riesgos ergonómicos, visuales, físicos y psicosociales en el entorno de la administración de sistemas y cómo prevenirlos.
-* 👉 **[Ir al proyecto de Seguridad](./proyecto-seguridad/README.md)**
+* 👉 **[Ir al proyecto de Seguridad](./donis/seguridad-trabajo.md)**
 
 ### 🌍 [Proyecto 2: Informática Ambiental](./proyecto-ambiental/README.md)
 **Autor:** Manuel Morales (@ManuMorales-16)
 * Estudio sobre el impacto de la tecnología en el medio ambiente: e-waste, obsolescencia programada y los principios de la informática ecológica (Green Computing).
-* 👉 **[Ir al proyecto Ambiental](./proyecto-ambiental/README.md)**
+* 👉 **[Ir al proyecto Ambiental](./mortales/proteccion-medioambiental.md)**
 
 ---
 
